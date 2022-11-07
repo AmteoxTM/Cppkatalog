@@ -1,0 +1,8 @@
+
+*.config
+*.ipch
+*.db
+cpp3/
+cpp/
+*.exe
+*.json
